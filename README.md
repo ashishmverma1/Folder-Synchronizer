@@ -38,4 +38,4 @@ I'm glad you liked the project. Fork the repository to begin with, then add your
 I take no responsibility if this tool causes any:
 * Data loss
 * A wild fire
-* Or brings upon the Doom's Day
+* Or brings upon the doomsday
