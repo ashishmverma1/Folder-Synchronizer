@@ -1,4 +1,4 @@
-# Folder-Synchronizer
+# Folder Synchronizer
 ##### A (very) tiny DOS based folder synchronization tool!
 
 Has synchronizing your movies / music or any other stuff across different directories / drives ever troubled you? Now it wont anymore! Folder Synchronizer is a tiny tool that syncs folders, making them identical without copying the stuff that is already there.
